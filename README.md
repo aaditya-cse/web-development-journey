@@ -1,64 +1,72 @@
-# 🚀 Web Development Journey
+# Web Development Journey
 
-Welcome to my Web Development Journey!
+Welcome to my Web Development learning repository. This repository documents my progress in HTML, CSS, frontend development, and practical website projects.
 
-This repository documents my complete learning journey in Web Development, starting from the fundamentals of HTML, CSS, and JavaScript to building responsive frontend applications, backend systems, and full-stack projects.
+## Repository Structure
 
-My goal is to develop strong programming fundamentals, build real-world applications, and continuously improve my development skills.
+```text
+web-development-journey/
+│
+├── 01-html-fundamentals/
+├── 02-css-fundamentals/
+├── 03-wolfclothing-store/
+├── 04-homework/
+│
+├── RENAME-MAP.md
+├── README.md
+├── LICENSE
+└── .gitignore
+```
 
-## 🎯 Learning Roadmap
+## Topics Covered
 
-| Stage | Technology / Skill | Status |
-|---|---|---|
-| 01 | HTML | 🔄 Learning |
-| 02 | CSS | 🔄 Learning |
-| 03 | JavaScript | ⏳ Upcoming |
-| 04 | Responsive Web Design | ⏳ Upcoming |
-| 05 | React.js | ⏳ Upcoming |
-| 06 | Node.js & Express.js | ⏳ Upcoming |
-| 07 | Database Management | ⏳ Upcoming |
-| 08 | Full Stack Development | ⏳ Upcoming |
+### HTML
+- HTML fundamentals
+- Forms and input elements
+- Lists and page structure
+- Tables and layouts
+- Portfolio development
 
-## 📂 Repository Structure
+### CSS
+- CSS fundamentals
+- Selectors and properties
+- Display properties
+- Fonts and typography
+- External stylesheets
 
-- `01-HTML` – HTML fundamentals and projects.
-- `02-CSS` – Styling, layouts, and responsive design.
-- `03-JavaScript` – Programming fundamentals and DOM manipulation.
-- `04-Frontend-Development` – Frontend frameworks and projects.
-- `05-Backend-Development` – Server-side development and databases.
-- `06-Full-Stack-Projects` – Complete web applications.
-- `07-Resources` – Learning notes and useful resources.
-- `08-Certificates` – Relevant certifications and achievements.
+### Projects
+- Wolfclothing online store
+- Product pages
+- Product details
+- Contact page
+- Privacy policy and terms pages
 
-## 🛠️ Technologies
+### Practice
+- HTML homework
+- Forms
+- Timetables
+- Beginner exercises
+
+## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- Git & GitHub
-- Databases
+- Git
+- GitHub
+- Visual Studio Code
 
-## 💻 Projects
+## Learning Goals
 
-I will continuously add practical projects to demonstrate my learning and development skills.
+- Strengthen HTML and CSS fundamentals.
+- Build responsive websites.
+- Learn JavaScript and frontend development.
+- Progress towards backend development.
+- Build real-world projects.
 
-## 📈 My Goal
+## Author
 
-- Master frontend development.
-- Learn backend development.
-- Build responsive and interactive websites.
-- Develop full-stack applications.
-- Maintain consistent coding practice.
+Aaditya Shukla
 
-## 🤝 Connect With Me
+GitHub: https://github.com/aaditya-cse
 
-GitHub: https://github.com/YOUR-USERNAME
-
-LinkedIn: Add your LinkedIn profile URL here.
-
----
-
-⭐ This repository represents my continuous learning, practical experience, and growth as a Web Developer.
+This repository is continuously updated as I learn and build new projects.
